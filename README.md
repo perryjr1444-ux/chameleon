@@ -61,6 +61,3 @@ The `poc` directory contains a simple, standalone Python script that demonstrate
 
 The PoC converts your secret message into a binary string. It then maps those bits to invisible "zero-width" Unicode characters (`U+200B`, `U+200C`, etc.) and injects them between the legitimate characters of the cover text. They are invisible to the human eye and in most text editors, but they are still there, carrying your data.
 
-## The Viral Launch
-
-Now, I will provide the materials for the Hacker News post.
